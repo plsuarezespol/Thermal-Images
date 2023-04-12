@@ -1,1 +1,1 @@
-# Thermal-Images
+# Thermal-Like Images
